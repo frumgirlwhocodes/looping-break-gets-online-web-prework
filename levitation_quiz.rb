@@ -7,6 +7,6 @@
 	  break if ansewr == "Wingardium Leviosa"
 	end 
 	puts  "You passed the quiz!" 
-end
+
 
 
